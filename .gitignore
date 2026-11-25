@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.pytest_cache/
+build/
+dist/
+*.spec
+*.csv
+*.exe
+*.pdf
+*.zip
+*-forecast.json
+*-scan.json
+*-return-v*.json
